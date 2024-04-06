@@ -33,5 +33,7 @@ Detailed instructions for each part of the project are provided within the respe
 Make sure to replace placeholder data with actual scraped data and provide appropriate documentation and comments in your code to explain each step and facilitate understanding.
 
 # Resources 
+I utilized ChatGPT and the following are pages I to help with this assignment: 
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 
